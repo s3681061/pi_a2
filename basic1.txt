@@ -1,0 +1,8 @@
+
+#part b 1 - script to display the amount of free & occupied memmory
+
+#!/bin bash
+
+free -hm
+
+
